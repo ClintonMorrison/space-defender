@@ -12,3 +12,4 @@ The game can be run by opening "index.html".
 
 ==== Documentation ====
 Documentation of the code can be found in the "jsdoc" folder.
+
